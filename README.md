@@ -21,3 +21,7 @@ In this repo you will find a variety of hypothesis tests.
     - [Anderson-Darling Test](#subsection-a)
     - [D'Agostino's K^2 Test](#subsection-b)
     - [Shapiro-Wilk Test](#subsection-c)
+4. [Parametric Statistical Hypothesis Tests](#section-4)
+    - [Paired Students T-Test]
+    - [Students T-Test]
+    - [Analysis of Variance Test (ANOVA)]
