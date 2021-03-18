@@ -15,3 +15,6 @@ ANOVA tests whether the means of two or more independent samples are significant
 - H1: the means of the samples are unequal.
 
 # Results
+
+Statistic = 1.247, p = 0.289
+Likely has the same distribution

@@ -22,6 +22,12 @@ In this repo you will find a variety of hypothesis tests.
     - [D'Agostino's K^2 Test](#subsection-b)
     - [Shapiro-Wilk Test](#subsection-c)
 4. [Parametric Statistical Hypothesis Tests](#section-4)
-    - [Paired Students T-Test]
-    - [Students T-Test]
-    - [Analysis of Variance Test (ANOVA)]
+    - [Paired Students T-Test](#subsection-a)
+    - [Students T-Test](#subsection-b)
+    - [Analysis of Variance Test (ANOVA)](#subsection-c)
+5. [Nonparametric Statistical Hypothesis Tests](#section-5)
+    - [Mann-Whitney U Test]
+    - [Wilcoxon Signed-Rank Test]
+    - [Kruskal-Wallis H Test]
+    - [Friedman Test]
+    - 
