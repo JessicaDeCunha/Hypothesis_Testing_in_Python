@@ -1,6 +1,6 @@
 # Augmented Dickey-Fuller Unit Root Test
 
-Tests whether a time series has a unit root, e.g. has a trend or more generally is autoregressive.
+The Augmented Dickey-Fuller test determines whether a time series has a unit root. The intuition behind a unit root test is that it determines how strongly a time series is defined by a trend.
 
 ## Assumptions
 
@@ -13,3 +13,5 @@ H1: a unit root is not present (series is stationary).
 
 # Results
 
+Statistic = -7.158, p = 0.000
+Likely Stationary
